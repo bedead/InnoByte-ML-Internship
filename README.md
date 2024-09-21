@@ -67,6 +67,7 @@ This directory includes the serialized trained models (in pkl format) for variou
 ## Notebooks folder
 
 Contains Jupyter notebooks for different stages of the project.
+Each notebook includes most of the required explaination and documentation.
 
 ### Data Preprocessing.ipynb
 
